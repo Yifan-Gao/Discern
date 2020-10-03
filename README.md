@@ -12,7 +12,7 @@ Code and models will be released before the end of October. Stay tuned!
 If you find our code useful, please cite our paper as follows:
 
 ```bibtex
-@article{gao-etal-2020-explicit,
+@article{gao-etal-2020-discern,
   title={Discern: Discourse-Aware Entailment Reasoning Network for Conversational Machine Reading},
   author={Yifan Gao and Chien-Sheng Wu and Jingjing Li and Shafiq Joty and Steven C.H. Hoi, Caiming Xiong and Irwin King and Michael R. Lyu},
   journal={EMNLP},
