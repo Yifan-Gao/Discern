@@ -1,6 +1,6 @@
 # Discern: Discourse-Aware Entailment Reasoning Network for Conversational Machine Reading (EMNLP 2020)
 
-This repository is the implementation of our EMNLP 2020 Paper [Discern: Discourse-Aware Entailment Reasoning Network for Conversational Machine Reading](https://yifan-gao.github.io).
+This repository is the implementation of our EMNLP 2020 Paper [Discern: Discourse-Aware Entailment Reasoning Network for Conversational Machine Reading](https://arxiv.org/abs/2010.01838).
 
 `Discern` achieves new state-of-the-art results on [ShARC conversational machine reading benchmark](https://sharc-data.github.io/leaderboard.html) (May 2020).
 
