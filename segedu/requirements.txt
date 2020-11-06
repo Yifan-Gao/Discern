@@ -1,0 +1,6 @@
+nltk==3.4.5
+numpy==1.18.1
+pycparser==2.20
+six==1.14.0
+torch==0.4.1
+tqdm==4.44.1
