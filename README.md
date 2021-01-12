@@ -148,7 +148,7 @@ PYT_DISCERN fix_questions.py
 > preprocess: prepare inputs for RoBERTa, generate labels for entailment supervision
 
 ```shell
-PYT_EMT preprocess_decision.py
+PYT_DISCERN preprocess_decision.py
 ```
 
 > training
