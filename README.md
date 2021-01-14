@@ -44,7 +44,7 @@ conda create -n discern python=3.6
 conda install pytorch==1.0.1 cudatoolkit=10.0 -c pytorch
 conda install spacy==2.0.16 scikit-learn
 python -m spacy download en_core_web_lg && python -m spacy download en_core_web_md
-pip install pytorch-pretrained-bert==0.4.0 editdistance==0.5.2
+pip install editdistance==0.5.2 transformers==2.8.0
 ```
 
 > UniLM question generation environment (`PYT_QG`)
